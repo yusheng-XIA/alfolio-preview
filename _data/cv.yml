@@ -1,0 +1,57 @@
+cv:
+  name: Yusheng Xia
+  label: Ph.D. candidate
+  email: ""
+  location: Shanghai, China
+  image: ""
+  summary: Ph.D. candidate at Shanghai Jiao Tong University working on genomics, pan-genomics, and single-cell & spatial transcriptomics
+
+  social_networks:
+    - network: GitHub
+      username: yusheng-XIA
+
+  sections:
+    Education:
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://www.sjtu.edu.cn/
+        area: Genomics
+        studyType: Ph.D.
+        start_date: ""
+        end_date: in progress
+        highlights:
+          - Research on genomics, pan-genomics, and single-cell & spatial transcriptomics
+
+      - institution: Institute of Crop Sciences, Chinese Academy of Agricultural Sciences
+        location: Beijing, China
+        url: http://ics.caas.cn/
+        area: Crop Sciences
+        studyType: M.S.
+        start_date: ""
+        end_date: ""
+
+      - institution: Henan Agricultural University
+        location: Zhengzhou, Henan, China
+        url: https://www.henau.edu.cn/
+        area: Agriculture
+        studyType: B.S.
+        start_date: ""
+        end_date: ""
+
+    Skills:
+      - name: Bioinformatics
+        level: ""
+        icon: fa-solid fa-hashtag
+        keywords: "Genomics, Pan-genomics, Single-cell Transcriptomics, Spatial Transcriptomics"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Genomics, Pan-genomics, Single-cell & Spatial Transcriptomics"
